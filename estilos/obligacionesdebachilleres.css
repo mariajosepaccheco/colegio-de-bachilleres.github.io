@@ -1,0 +1,14 @@
+#titulo{
+    color: darkblue;
+    text-align: center;
+    background-color: lightsteelblue;
+    border-style: dashed;
+}
+.titulo2{
+    font-family: cursive;
+    color: powderblue;
+    font-size: 30px;
+}
+.texto1{
+    font-size: 15px;
+}

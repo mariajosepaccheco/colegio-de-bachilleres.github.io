@@ -1,0 +1,33 @@
+#xd{
+color: darkblue;
+    text-align: center;
+    background-color: lightsteelblue;
+    border-style: dashed;
+        
+    }
+#barraLat{
+    display: inline-block;
+    float: left;
+    width: 25%;
+    border: double;
+}
+#principal{
+    display: inline-block;
+    width: 73%;
+    padding: 8px;
+    text-align: center;
+    
+}
+#texto{
+    padding: 8px;
+    text-align: center;
+    font-size: 20px;
+    color: hotpink;
+}
+.titulo{
+    color: black;
+    text-align: center;
+    background-color: darkcyan;
+    font-size: 30px;
+    border-style: dashed;
+}

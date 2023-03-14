@@ -1,0 +1,34 @@
+#titulo{
+    color: darkblue;
+    text-align: center;
+    background-color: lightsteelblue;
+    border-style: dashed;
+}
+.titulo2{
+    font-family: cursive;
+    color: skyblue;
+    font-size: 24px;
+}
+.titulo3{
+    font-family: monospace;
+    color: dodgerblue;
+    font-size: 24px;
+}
+.titulo4{
+    font-family: monospace;
+    color: darkblue;
+    font-size: 24px;
+}
+.titulo5{
+    color: hotpink;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 20px;
+    border-style: dashed
+}
+.texto1{
+    font-size: 15px;
+    text-align: center;
+    font-size: 24px;
+    color: hotpink;
+}

@@ -1,0 +1,37 @@
+#logo1{
+    display: inline-block;
+    width; 15%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+#logo2{
+    display: inline-block;
+    width: 12%;
+    text-align: right
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color: pink;
+    font-size: 20px;
+    text-align: center;
+    border: solid;
+}
+#marco{
+    width: 99%;
+    padding: 8px;
+    height: 400px;
+    
+}
+#oie{
+    text-align: center;
+    font-size: 20px;
+    border: groove;
+}
